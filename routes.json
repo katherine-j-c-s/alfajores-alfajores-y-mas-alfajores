@@ -1,0 +1,5 @@
+{
+  "/api/*": "/$1",
+  "/events": "/alfajores",
+  "/categories": "/categories"
+}
